@@ -98,7 +98,7 @@ other machine learning frameworks (TensorFlow, Darknet, ONNX).
 - Use my new function```tool.format_converter.to_yolo()``` to convert inference results to YOLO format
 - Use [labelImg](https://github.com/qaprosoft/labelImg) to adjust and save the labels 
 - Repeat steps 1 to 3 for model updating
-- 
+
 ![](data/package-holder2.jpg)
 ![](data/package-holder3.jpg)
 # 4.Model Convert
