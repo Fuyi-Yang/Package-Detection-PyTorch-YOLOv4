@@ -4,8 +4,7 @@
 ![](https://img.shields.io/static/v1?label=pytorch&message=1.7&color=<COLOR>)
 [![](https://img.shields.io/static/v1?label=license&message=Apache2&color=green)](./License.txt)
 
-Hi, I am Fuyi Yang, a senior student in high school. I'm enjoy using machine learning methods to solve practical problems
-in our daily life. This system is developed for package arrival reminder by sending messages to one’s favorite
+This system is developed for package arrival reminder by sending messages to one’s favorite
 communication APP and attempting to prevent one’s packages from being stolen, which
 happens frequently in the real world.
 
