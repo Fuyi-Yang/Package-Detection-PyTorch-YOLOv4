@@ -1,0 +1,506 @@
+data/train/IMG_6821_jpg.rf.085db99cf51349548087fa629a15868d.jpg 232,227,286,262,0 213,235,369,356,0
+data/train/PXL_20201107_021341143_jpg.rf.03e2fa3361e1e8ae9bfdb4f2dde2203a.jpg 143,151,375,346,0 158,86,331,197,0
+data/train/PXL_20201107_021350055_jpg.rf.144cf464d38db6ef228ddcc006a464bc.jpg 113,102,296,242,0 78,158,315,397,0
+data/train/PXL_20201107_191150218_jpg.rf.009bef1c874f3e51d375534eadee80b0.jpg 167,226,255,348,0
+data/train/PXL_20201107_214721193_jpg.rf.1117e69b14d6ffdc47bf0c78abd5da7b.jpg 86,62,382,409,0
+data/train/PXL_20201105_173148569_jpg.rf.22a045bf175813f2b27901439111e525.jpg 163,117,301,314,0
+data/train/PXL_20201103_181906837_jpg.rf.16facb85027821d1c4396e0b0c4464a8.jpg 171,220,292,338,0 160,177,261,245,0
+data/train/PXL_20201107_021345301_jpg.rf.031b5aa41d066756640fefc8ec5edaf1.jpg 80,170,309,274,0 56,208,369,395,0
+data/train/PXL_20201107_191150218_jpg.rf.265313e80937054c8c16eeba4ce1a93b.jpg 170,212,268,342,0
+data/train/IMG_6823_jpg.rf.28533445ef71ad35b6ac5a8837bcb80a.jpg 213,257,351,367,0 97,278,136,312,0
+data/train/IMG_6824_jpg.rf.10fff1daf67da29ef914c7fc85765d0d.jpg 252,271,352,353,0
+data/train/IMG_6822_jpg.rf.1ec2110a68636d47271f185cc17c6477.jpg 242,231,409,351,0 267,215,323,249,0
+data/train/PXL_20201103_181911592_jpg.rf.277c5b0bdaaf09ec258953dfd19df8a5.jpg 111,180,192,271,0 171,178,236,257,0
+data/train/IMG_6817_jpg.rf.2b27ee700087707e9721d9ef99180953.jpg 220,300,265,338,0
+data/train/IMG_6823_jpg.rf.0152dabc07ab1fa867917ee49b39bcee.jpg 222,255,362,368,0 104,291,144,326,0
+data/train/IMG_6823_jpg.rf.23b5163605246af7d004f7438aba17f5.jpg 219,269,359,379,0 95,295,135,329,0
+data/train/PXL_20201107_021341143_jpg.rf.1ed1af09d285b127fc5296642bc266ec.jpg 149,156,379,353,0 159,96,329,211,0
+data/train/package_3_jpg.rf.30b72e3aafc7ef620b301c565333c1ce.jpg 37,233,93,305,0 81,228,238,345,0
+data/train/package_3_jpg.rf.0d9a9aff39c3a0ebdc4688341b2897d1.jpg 30,276,82,345,0 76,266,226,373,0
+data/train/package_2_jpg.rf.34839cb0632e4e7b635729a456f35efb.jpg 46,170,171,365,0 61,48,415,334,0
+data/train/PXL_20201107_214721193_jpg.rf.2914504d63e6867c2dec7374309c4c03.jpg 88,56,395,414,0
+data/train/package_1_jpg.rf.08ffa09087971a8d8783c76d1b482ad0.jpg 219,202,278,301,0 85,144,268,288,0
+data/train/package_1_jpg.rf.1dd5f86efdbf9d125fee179b79990815.jpg 138,198,197,297,0 150,146,332,289,0
+data/train/PXL_20201103_181906837_jpg.rf.35d6cc0732355447142f1d79f24fe5d6.jpg 165,224,286,341,0 163,179,264,246,0
+data/train/PXL_20201101_154113387_jpg.rf.309cd309bbda8ce9323a078a80791019.jpg 220,157,326,287,0 225,142,278,207,0
+data/train/IMG_6818_jpg.rf.4cf2cbc673b8173c113825f52ed30a16.jpg 257,221,325,269,0
+data/train/IMG_6817_jpg.rf.570b3cee12be74810ef82d2e0cb2cc8a.jpg 169,305,213,343,0
+data/train/PXL_20201107_191150218_jpg.rf.5111e72c7fa252e48d6280e6f5e36110.jpg 178,214,267,333,0
+data/train/PXL_20201107_021350055_jpg.rf.53ead9c45156372421dad906a3caa69c.jpg 113,83,300,229,0 100,137,344,384,0
+data/train/PXL_20201107_021345301_jpg.rf.732d94dd09b1d5771004ab65daf462af.jpg 103,183,338,286,0 30,219,351,406,0
+data/train/IMG_6823_jpg.rf.552a6bff2aaef726d213786fbb747a30.jpg 219,246,361,362,0 105,289,145,325,0
+data/train/PXL_20201107_021345301_jpg.rf.58bfcfd721d4ce6df4326264ff292e8c.jpg 97,164,323,263,0 75,202,384,382,0
+data/train/IMG_6817_jpg.rf.4f0c645ca6bfa29783ebafc3cf6ee1c0.jpg 163,278,210,319,0
+data/train/IMG_6824_jpg.rf.4b29a32115559fd73915425f25feb992.jpg 87,265,184,345,0
+data/train/PXL_20201107_191150218_jpg.rf.4bcdb342b5a5a12e85aa4c6636609426.jpg 134,199,224,325,0
+data/train/package_3_jpg.rf.7bfe31ef69296872df37ee49f5061974.jpg 313,276,368,346,0 172,256,324,369,0
+data/train/PXL_20201101_154113387_jpg.rf.5986f049935f2858946577b2c7c6fa7e.jpg 229,158,337,288,0 239,143,293,209,0
+data/train/PXL_20201107_021350055_jpg.rf.4d80730bad902255de8af29654912420.jpg 91,82,278,226,0 56,140,298,385,0
+data/train/PXL_20201107_021345301_jpg.rf.4c41b72ab988e2cfab5f6f6c57a8a614.jpg 88,163,313,258,0 68,202,375,377,0
+data/train/package_1_jpg.rf.607a49e86d23ef1c47f3a729dc00aee2.jpg 225,197,285,299,0 87,138,274,286,0
+data/train/PXL_20201107_191147238_jpg.rf.6f896ac457b474ab2aae1a5374b7f909.jpg 164,168,284,278,0
+data/train/PXL_20201103_181906837_jpg.rf.749503f526856a035fe2f434ced8896e.jpg 159,226,281,345,0 158,180,260,249,0
+data/train/PXL_20201107_191147238_jpg.rf.598135318404d88794e941a28f3a4ac0.jpg 116,172,234,281,0
+data/train/PXL_20201107_191147238_jpg.rf.47e6c1b25fc02b7f43e72da37a596576.jpg 122,163,242,274,0
+data/train/IMG_6823_jpg.rf.699339f729b7c3406069ab56fb3eaf1c.jpg 59,255,196,365,0 273,288,312,322,0
+data/train/IMG_6818_jpg.rf.538e298294e63232e75784890e05b146.jpg 259,221,328,270,0
+data/train/IMG_6824_jpg.rf.503fab1e5ae74ba26fca797c54345298.jpg 256,253,360,340,0
+data/train/IMG_6821_jpg.rf.7b68785404b930c5d830840dfde62f56.jpg 107,196,163,235,0 18,200,183,331,0
+data/train/IMG_6821_jpg.rf.826f645c8e16d9e706f2f128802a1ec8.jpg 117,225,169,260,0 40,234,192,353,0
+data/train/IMG_6822_jpg.rf.8008612b9801f9dfd8829f48c3e6993b.jpg 1,225,169,345,0 88,208,145,242,0
+data/train/IMG_6817_jpg.rf.844adc441aed7f7c029881844b9638e6.jpg 226,294,269,330,0
+data/train/package_2_jpg.rf.8c973fc25e3e5d21b9c530a10fee8b9c.jpg 255,164,385,369,0 0,38,368,336,0
+data/train/PXL_20201107_021341143_jpg.rf.89aef42805d74a1e0ad351d560dd3f5c.jpg 156,162,391,363,0 166,101,339,218,0
+data/train/IMG_6821_jpg.rf.5ca1f8dc4beb0175886056ee64eaf80a.jpg 252,225,305,260,0 233,231,386,351,0
+data/train/PXL_20201107_214721193_jpg.rf.92416e3d4212a14ebe756fcdea0f1765.jpg 18,52,364,415,0
+data/train/PXL_20201103_181911592_jpg.rf.9c27d12c160121f3d51700fa27cae020.jpg 220,164,300,255,0 174,165,237,244,0
+data/train/PXL_20201103_181906837_jpg.rf.942c8fcd2ddb2d1215ce363d9b9e5f0b.jpg 107,207,239,334,0 131,156,241,230,0
+data/train/PXL_20201101_154113387_jpg.rf.aaa8c7ebf3207fa89d89ad5969fd8451.jpg 219,153,325,281,0 229,139,282,203,0
+data/train/PXL_20201107_021350055_jpg.rf.afcbc3fa4e897a35c63135a66eafe608.jpg 86,100,281,251,0 50,158,304,414,0
+data/train/PXL_20201101_154113387_jpg.rf.aad9f91d05c982828bdee2bec8459e7e.jpg 228,155,334,283,0 238,141,291,205,0
+data/train/package_2_jpg.rf.b9194262104bda818963af3ca6ddd709.jpg 44,171,176,367,0 52,39,415,336,0
+data/train/PXL_20201107_191147238_jpg.rf.9f6102c4d9318ae3d716342d7ea9b156.jpg 133,171,245,274,0
+data/train/IMG_6822_jpg.rf.a54c178d419dce1eb59b2519ec16de73.jpg 239,209,401,323,0 258,195,312,228,0
+data/train/PXL_20201107_191150218_jpg.rf.8b8d339f55ad4baae2978c80c09c85f3.jpg 185,222,275,343,0
+data/train/PXL_20201107_191147238_jpg.rf.9d63ec18291d4cd381f9dec15281e571.jpg 180,171,296,278,0
+data/train/IMG_6822_jpg.rf.8dc603ee40103634eb1201a1d66f89aa.jpg 224,210,395,329,0 246,193,304,227,0
+data/train/PXL_20201107_021345301_jpg.rf.b4df291f55e8a30bab135553660d1180.jpg 103,164,321,263,0 45,200,344,378,0
+data/train/package_2_jpg.rf.a8df724f76d97bc0ecbe104ac0ad6595.jpg 245,159,378,362,0 0,43,357,343,0
+data/train/package_2_jpg.rf.cd280ecf75795f6ceb8acc3524ef8e50.jpg 46,171,172,367,0 61,49,415,336,0
+data/train/package_1_jpg.rf.b38aca10bd8c1c7187ac5202ad8daa7b.jpg 217,197,276,298,0 77,142,263,288,0
+data/train/PXL_20201105_173148569_jpg.rf.b1a0f50296e39ac0ef969220cac58f64.jpg 141,109,290,311,0
+data/train/PXL_20201105_173148569_jpg.rf.bd0e5919a322d8262e471515a0df62a9.jpg 145,118,284,316,0
+data/train/PXL_20201107_021341143_jpg.rf.ab93a4a28d5c44001af8953fb7a29578.jpg 40,159,264,349,0 87,99,253,209,0
+data/train/package_3_jpg.rf.cecca628e331af9c9a2a7831c34f8612.jpg 303,259,353,325,0 164,249,309,351,0
+data/train/IMG_6821_jpg.rf.c3eb2feda02ef6b66d055ed3a1b35c99.jpg 238,217,288,250,0 217,226,363,339,0
+data/train/IMG_6818_jpg.rf.88e460792f0c2f00c939494186207e02.jpg 96,227,163,275,0
+data/train/PXL_20201103_181906837_jpg.rf.bbd8b8a92c323d90e0e815dd3a8246f9.jpg 164,213,290,334,0 156,163,263,231,0
+data/train/IMG_6817_jpg.rf.bfe8f41397cf45973b1e132292980281.jpg 222,283,265,320,0
+data/train/IMG_6818_jpg.rf.d1c0488ba7217f2e3f22985453962478.jpg 93,234,161,282,0
+data/train/PXL_20201105_173148569_jpg.rf.dfea357bf308b00b3241a52324e8f836.jpg 127,116,284,331,0
+data/train/IMG_6824_jpg.rf.d334ecdd00d1c88d227cb209eebb96dc.jpg 241,248,338,329,0
+data/train/package_3_jpg.rf.f044ebaf45f1c6a419f442ae0e0db98c.jpg 40,261,90,327,0 85,254,230,356,0
+data/train/PXL_20201103_181911592_jpg.rf.df400ec758dc388b2a1ccdae895e3b50.jpg 115,173,193,262,0 176,176,238,253,0
+data/train/PXL_20201107_214721193_jpg.rf.d99f9ee32d61e29eada5329cf05098cc.jpg 23,30,355,411,0
+data/train/IMG_6822_jpg.rf.bb89cc1b4a71cdaa33fbe9fb52844afd.jpg 13,219,190,347,0 104,202,163,239,0
+data/train/PXL_20201103_181911592_jpg.rf.f0dcc410046e7493547a62e0651e7dd1.jpg 106,169,187,261,0 168,172,233,251,0
+data/train/PXL_20201107_021350055_jpg.rf.e22730e680138929b36973172389455f.jpg 113,98,290,235,0 73,151,304,384,0
+data/train/PXL_20201107_214721193_jpg.rf.fb52dba4cf2addec4a3d4cc2e9fa527b.jpg 24,58,335,416,0
+data/train/IMG_6824_jpg.rf.e1112765afeb035d826294aedf6b09bf.jpg 224,263,321,343,0
+data/train/PXL_20201107_021341143_jpg.rf.cf8c3e25f7103b30e9143920f4c58bce.jpg 149,162,369,347,0 162,100,326,206,0
+data/train/IMG_6818_jpg.rf.f641fee3d1cb09c8b538e0f32ae5cf46.jpg 260,219,330,270,0
+data/train/package_1_jpg.rf.f896e3ed4110fac4c624a2d6cbc0465c.jpg 131,200,199,309,0 139,132,341,295,0
+data/train/PXL_20201103_181911592_jpg.rf.ff9af091a355f1a1bfb5d6690c9394e8.jpg 213,182,294,273,0 168,185,232,264,0
+data/train/PXL_20201105_173148569_jpg.rf.fe3f2e53f3402e5ed81bbdcd736d31cf.jpg 147,115,288,312,0
+data/train/PXL_20201101_154113387_jpg.rf.bde4683c4883388ba8999bd022227cef.jpg 89,157,187,277,0 133,142,182,203,0
+data/train/amazonpackagedelivery0.jpeg 567,177,953,338,0 570,330,956,533,0 423,491,1088,927,0
+data/train/amazonpackagedelivery1.jpeg 141,5,358,229,0 79,92,455,350,0 355,33,502,207,0
+data/train/amazonpackagedelivery103.jpeg 643,87,1188,546,0 654,502,828,830,0
+data/train/amazonpackagedelivery104.jpeg 50,181,1107,897,0 678,81,1499,609,0
+data/train/amazonpackagedelivery105.jpeg 113,292,449,480,0 82,454,427,617,0 422,373,873,664,0
+data/train/amazonpackagedelivery112.jpeg 257,44,631,320,0
+data/train/amazonpackagedelivery114.jpeg 250,143,979,463,0 232,318,915,511,0
+data/train/amazonpackagedelivery117.jpeg 260,331,868,807,0
+data/train/amazonpackagedelivery12.jpeg 442,222,1095,443,0 310,406,1246,1014,0
+data/train/amazonpackagedelivery124.jpeg 431,142,784,229,0 409,215,780,281,0 460,265,802,421,0 453,379,800,547,0
+data/train/amazonpackagedelivery127.jpeg 379,131,1209,896,0 358,253,1227,909,0
+data/train/amazonpackagedelivery131.jpeg 520,5,2000,711,0
+data/train/amazonpackagedelivery133.jpeg 733,198,1319,577,0 559,553,1405,1280,0
+data/train/amazonpackagedelivery134.jpeg 364,19,573,313,0
+data/train/amazonpackagedelivery306.jpeg 312,432,1710,1700,0 877,253,2053,919,0 1693,769,2194,1514,0
+data/train/amazonpackagedelivery308.jpeg 99,40,320,122,0 17,74,246,157,0 14,101,346,384,0 267,151,525,235,0 248,191,474,330,0 211,233,528,427,0
+data/train/amazonpackagedelivery309.jpeg 243,267,894,675,0
+data/train/amazonpackagedelivery310.jpeg 199,9,515,140,0 120,96,637,437,0
+data/train/amazonpackagedelivery311.jpeg 1,157,410,677,0 355,133,1010,256,0 388,203,1016,410,0 379,374,968,614,0 325,550,1022,695,0 241,601,992,768,0
+data/train/amazonpackagedelivery312.jpeg 134,29,500,348,0
+data/train/amazonpackagedelivery317.jpeg 1,13,1067,675,0
+data/train/amazonpackagedelivery329.jpeg 61,87,625,343,0 471,3,984,321,0 141,268,840,630,0
+data/train/amazonpackagedelivery330.jpeg 360,214,495,247,0 342,222,527,255,0 347,250,468,322,0 300,306,471,456,0 458,228,591,462,0
+data/train/amazonpackagedelivery332.jpeg 38,92,625,363,0
+data/train/amazonpackagedelivery335.jpeg 107,261,343,399,0 94,392,311,487,0 306,286,627,496,0
+data/train/amazonpackagedelivery336.jpeg 8,163,535,414,0
+data/train/amazonpackagedelivery337.jpeg 36,42,241,134,0
+data/train/amazonpackagedelivery14.jpeg 817,794,1373,1170,0
+data/train/amazonpackagedelivery143.jpeg 547,19,1154,239,0 379,182,1285,746,0
+data/train/amazonpackagedelivery147.jpeg 329,243,1312,1003,0 655,89,1457,551,0
+data/train/amazonpackagedelivery148.jpeg 15,1365,801,1825,0 689,1557,1709,2333,0 1,1728,705,2165,0
+data/train/amazonpackagedelivery15.jpeg 889,829,2030,1325,0 858,1277,1990,1787,0
+data/train/amazonpackagedelivery152.jpeg 258,66,468,197,0 180,173,541,368,0 122,358,291,456,0 290,356,595,474,0 107,438,630,539,0
+data/train/amazonpackagedelivery153.jpeg 252,2,1917,1092,0 804,499,2371,1907,0
+data/train/amazonpackagedelivery156.jpeg 183,38,1669,820,0
+data/train/amazonpackagedelivery157.jpeg 80,221,396,389,0
+data/train/amazonpackagedelivery159.jpeg 128,81,1122,762,0
+data/train/amazonpackagedelivery16.jpeg 349,42,648,281,0 250,167,796,599,0
+data/train/amazonpackagedelivery164.jpeg 38,57,328,265,0 2,137,411,447,0
+data/train/amazonpackagedelivery165.jpeg 205,784,718,1199,0
+data/train/amazonpackagedelivery173.jpeg 58,32,168,77,0 69,75,177,138,0 39,135,189,179,0 27,170,207,242,0 174,104,249,239,0
+data/train/amazonpackagedelivery176.jpeg 431,182,802,397,0 420,316,862,646,0
+data/train/amazonpackagedelivery178.jpeg 101,125,426,418,0 419,65,980,413,0 103,409,835,571,0
+data/train/amazonpackagedelivery179.jpeg 1178,521,2962,1654,0 1,859,1719,2000,0 2118,143,3524,967,0 2867,24,3908,724,0
+data/train/amazonpackagedelivery184.jpeg 435,88,877,356,0 435,285,985,496,0 462,375,972,644,0 471,538,1018,808,0 388,639,1044,1066,0
+data/train/amazonpackagedelivery185.jpeg 52,974,336,1202,0 977,613,1282,848,0
+data/train/amazonpackagedelivery189.jpeg 540,181,894,532,0 38,253,606,610,0
+data/train/amazonpackagedelivery191.jpeg 88,1,893,550,0
+data/train/amazonpackagedelivery192.jpeg 663,420,830,546,0
+data/train/amazonpackagedelivery197.jpeg 642,98,848,176,0 648,176,848,284,0 642,285,842,394,0 615,387,882,557,0 609,551,896,743,0 588,727,938,912,0
+data/train/amazonpackagedelivery199.jpeg 16,409,844,1081,0
+data/train/amazonpackagedelivery2.jpeg 638,234,1201,694,0 408,657,1614,1666,0 1325,632,1740,952,0
+data/train/amazonpackagedelivery202.jpeg 22,221,1012,674,0
+data/train/amazonpackagedelivery204.jpeg 1,252,1772,1334,0
+data/train/amazonpackagedelivery205.jpeg 556,405,754,578,0
+data/train/amazonpackagedelivery136.jpeg 52,101,180,351,0 178,63,280,200,0 279,64,429,200,0 426,90,587,348,0 178,199,432,350,0
+data/train/amazonpackagedelivery174.jpeg 1224,522,1929,826,0 1279,667,2038,985,0 1160,840,2265,1342,0
+data/train/amazonpackagedelivery206.jpeg 334,230,544,365,0 477,151,717,248,0 458,60,663,127,0
+data/train/amazonpackagedelivery230.jpeg 46,309,235,377,0 194,212,513,379,0 519,331,728,394,0
+data/train/amazonpackagedelivery273.jpeg 13,62,408,166,0 152,6,363,146,0 23,125,313,259,0 1,164,335,353,0
+data/train/amazonpackagedelivery30.jpeg 156,1,518,143,0 175,110,521,293,0 185,291,500,509,0
+data/train/amazonpackagedelivery34.jpeg 196,166,323,247,0
+data/train/amazonpackagedelivery369.jpeg 236,0,656,452,0
+data/train/amazonpackagedelivery63.png 1,168,144,310,0 280,162,519,350,0 163,208,281,321,0
+data/train/amazonpackagedelivery209.jpeg 110,215,721,464,0
+data/train/amazonpackagedelivery21.jpeg 379,6,1198,724,0
+data/train/amazonpackagedelivery213.jpeg 315,1,559,70,0 223,66,516,361,0 18,307,315,463,0
+data/train/amazonpackagedelivery215.png 529,54,1280,720,0
+data/train/amazonpackagedelivery216.jpeg 5,831,1919,2109,0 1413,1750,1920,2560,0
+data/train/amazonpackagedelivery217.jpeg 392,160,547,280,0 511,152,661,269,0 235,357,553,595,0 596,296,761,557,0 301,200,722,542,0
+data/train/amazonpackagedelivery22.jpeg 155,4,484,325,0
+data/train/amazonpackagedelivery220.jpeg 847,682,1791,1070,0 876,932,1823,1309,0
+data/train/amazonpackagedelivery222.jpeg 110,47,549,226,0 120,212,523,332,0
+data/train/amazonpackagedelivery225.jpeg 423,1,715,286,0 342,144,808,369,0 325,244,851,663,0
+data/train/amazonpackagedelivery228.jpeg 170,8,290,67,0 115,65,339,228,0 8,88,84,118,0
+data/train/amazonpackagedelivery229.jpeg 154,20,1276,719,0
+data/train/amazonpackagedelivery23.jpeg 256,464,1540,1220,0
+data/train/amazonpackagedelivery236.jpeg 890,344,1135,504,0
+data/train/amazonpackagedelivery239.jpeg 351,244,548,315,0 329,301,576,415,0 312,385,607,535,0
+data/train/amazonpackagedelivery241.jpeg 454,325,502,351,0 455,348,508,390,0 441,379,528,446,0
+data/train/amazonpackagedelivery242.jpeg 271,67,1000,416,0
+data/train/amazonpackagedelivery244.jpeg 296,142,1123,657,0
+data/train/amazonpackagedelivery245.jpeg 113,209,529,403,0 308,160,721,354,0
+data/train/amazonpackagedelivery250.jpeg 884,470,1894,1080,0
+data/train/amazonpackagedelivery261.jpeg 133,69,363,201,0 135,160,400,267,0
+data/train/amazonpackagedelivery262.jpeg 123,38,773,574,0
+data/train/amazonpackagedelivery268.jpeg 172,167,292,236,0 153,224,298,308,0
+data/train/amazonpackagedelivery269.jpeg 133,390,431,611,0 89,543,337,752,0 365,426,567,646,0 516,548,673,700,0 530,629,729,868,0
+data/train/amazonpackagedelivery27.jpeg 1,494,160,776,0 123,455,488,878,0 670,441,961,726,0 786,621,1061,838,0 1206,59,1571,372,0 1395,377,1597,621,0 1386,615,1595,767,0
+data/train/amazonpackagedelivery270.jpeg 188,12,601,220,0 184,58,575,392,0 211,268,574,505,0
+data/train/amazonpackagedelivery275.jpeg 131,48,509,176,0 61,166,543,375,0 82,360,574,574,0 136,469,292,580,0 18,350,78,597,0
+data/train/amazonpackagedelivery276.jpeg 617,921,1114,1395,0
+data/train/amazonpackagedelivery277.jpeg 215,192,594,407,0 173,393,609,624,0 95,588,675,951,0 1,875,790,1287,0
+data/train/amazonpackagedelivery279.jpeg 496,211,758,453,0 413,435,878,717,0 382,684,929,905,0 263,818,945,1201,0 315,1053,1006,1499,0
+data/train/amazonpackagedelivery28.jpeg 339,177,889,532,0
+data/train/amazonpackagedelivery282.jpeg 275,51,881,173,0 214,117,680,440,0
+data/train/amazonpackagedelivery284.jpeg 316,447,748,720,0
+data/train/amazonpackagedelivery285.jpeg 316,195,447,261,0 284,253,461,306,0
+data/train/amazonpackagedelivery286.jpeg 1,211,531,605,0 1,469,515,800,0
+data/train/amazonpackagedelivery29.jpeg 151,65,566,420,0
+data/train/amazonpackagedelivery291.jpeg 252,135,1355,837,0
+data/train/amazonpackagedelivery294.jpeg 237,408,417,520,0
+data/train/amazonpackagedelivery3.jpeg 15,238,599,800,0
+data/train/amazonpackagedelivery64.jpeg 43,303,896,558,0
+data/train/amazonpackagedelivery65.jpeg 441,258,832,546,0
+data/train/amazonpackagedelivery67.jpeg 262,678,526,959,0 591,648,790,893,0 585,920,794,1020,0
+data/train/amazonpackagedelivery7.jpeg 996,554,2500,1542,0 1137,905,2721,2068,0
+data/train/amazonpackagedelivery72.jpeg 210,570,408,774,0
+data/train/amazonpackagedelivery80.jpeg 649,384,1160,655,0
+data/train/amazonpackagedelivery84.jpeg 328,69,576,292,0
+data/train/amazonpackagedelivery85.jpeg 1312,212,1580,460,0 1233,434,1700,716,0 1203,689,1750,908,0 1078,821,1766,1206,0 1132,1049,1827,1505,0
+data/train/amazonpackagedelivery87.jpeg 452,165,970,425,0 819,353,991,533,0
+data/train/amazonpackagedelivery88.jpeg 1,1,1126,898,0
+data/train/amazonpackagedelivery93.jpeg 119,771,455,1062,0
+data/train/amazonpackagedelivery99.jpeg 430,404,948,867,0
+data/train/amazonpackagedelivery345.jpeg 437,152,728,255,0 485,247,695,341,0 344,324,822,649,0
+data/train/amazonpackagedelivery347.png 183,194,401,418,0
+data/train/amazonpackagedelivery348.jpeg 352,642,1264,942,0 326,789,1234,1920,0
+data/train/amazonpackagedelivery35.jpeg 332,5,1716,1272,0
+data/train/amazonpackagedelivery350.jpeg 759,226,1013,388,0 746,357,1005,469,0 693,397,1073,672,0 1178,150,1451,342,0 1137,275,1505,543,0 1073,460,1551,748,0
+data/train/amazonpackagedelivery353.jpeg 265,215,974,668,0
+data/train/amazonpackagedelivery355.jpeg 598,224,1531,731,0 501,596,1587,1280,0
+data/train/amazonpackagedelivery359.jpeg 69,11,820,499,0
+data/train/amazonpackagedelivery363.jpeg 29,0,787,209,0 22,161,772,438,0 67,409,868,675,0
+data/train/amazonpackagedelivery365.jpeg 294,114,473,348,0
+data/train/amazonpackagedelivery373.jpeg 54,136,232,202,0 61,185,326,354,0 301,147,438,257,0 416,114,564,237,0 435,200,523,239,0
+data/train/amazonpackagedelivery374.jpeg 429,104,746,492,0
+data/train/amazonpackagedelivery376.jpeg 304,214,414,304,0
+data/train/amazonpackagedelivery378.jpeg 387,53,858,216,0 296,204,901,471,0 325,444,942,599,0
+data/train/amazonpackagedelivery38.jpeg 76,113,297,263,0 77,246,261,346,0 461,24,654,126,0 462,115,661,228,0 451,201,678,317,0 440,263,676,429,0
+data/train/amazonpackagedelivery380.jpeg 327,177,812,475,0
+data/train/amazonpackagedelivery381.jpeg 245,0,999,545,0
+data/train/amazonpackagedelivery387.png 407,724,862,1109,0
+data/train/amazonpackagedelivery389.jpeg 257,80,547,311,0 101,9,405,220,0 152,202,522,360,0
+data/train/amazonpackagedelivery394.jpeg 331,846,1828,2341,0
+data/train/amazonpackagedelivery396.jpeg 289,146,841,499,0
+data/train/amazonpackagedelivery40.jpeg 136,17,248,486,0 243,299,477,472,0 174,358,410,490,0
+data/train/amazonpackagedelivery48.jpeg 336,0,941,370,0 133,142,767,542,0
+data/train/amazonpackagedelivery49.jpeg 596,342,991,588,0
+data/train/amazonpackagedelivery5.jpeg 91,63,321,189,0
+data/train/amazonpackagedelivery50.jpeg 144,315,650,741,0 0,534,141,743,0
+data/train/amazonpackagedelivery53.jpeg 292,145,778,334,0
+data/train/amazonpackagedelivery54.jpeg 420,192,703,428,0 331,256,913,716,0
+data/train/amazonpackagedelivery6.jpeg 292,29,674,185,0 224,143,787,502,0
+data/train/amazonpackagedelivery62.jpeg 119,4,2149,1352,0
+data/train/upspackagedelivery0.jpeg 359,154,1055,480,0
+data/train/upspackagedelivery103.jpeg 156,171,225,254,0
+data/train/upspackagedelivery11.jpeg 69,0,924,894,0
+data/train/upspackagedelivery131.jpeg 207,106,543,389,0
+data/train/upspackagedelivery134.jpeg 22,137,412,412,0
+data/train/upspackagedelivery142.jpeg 929,212,1196,426,0
+data/train/upspackagedelivery143.jpeg 22,71,277,301,0
+data/train/upspackagedelivery144.jpeg 1699,1709,2531,2165,0 1734,1872,2574,2490,0
+data/train/upspackagedelivery152.jpeg 627,1716,1200,2000,0
+data/train/upspackagedelivery156.jpeg 648,296,781,383,0 632,370,792,457,0
+data/train/upspackagedelivery16.jpeg 511,342,788,663,0 504,620,653,753,0 654,658,764,749,0
+data/train/upspackagedelivery36.jpeg 334,240,525,468,0 228,465,445,540,0 52,443,237,540,0
+data/train/upspackagedelivery364.jpeg 26,30,233,192,0 46,61,264,239,0
+data/train/upspackagedelivery379.jpeg 321,317,474,442,0 268,391,446,542,0
+data/train/upspackagedelivery380.jpeg 78,359,198,405,0 67,402,220,465,0 52,447,153,558,0 147,460,227,560,0 30,530,242,718,0 324,379,503,810,0
+data/train/upspackagedelivery382.jpeg 18,4,275,226,0
+data/train/upspackagedelivery40.jpeg 388,359,639,486,0 409,290,534,379,0
+data/train/upspackagedelivery41.jpeg 114,98,546,428,0
+data/train/upspackagedelivery44.jpeg 340,252,682,415,0
+data/train/upspackagedelivery46.jpeg 307,210,449,302,0 207,268,307,348,0 301,287,441,368,0 194,342,303,435,0 298,361,426,444,0 174,427,280,520,0 277,438,422,534,0 132,507,255,619,0 251,518,416,635,0
+data/train/upspackagedelivery50.jpeg 538,338,933,532,0
+data/train/upspackagedelivery6.jpeg 733,172,1769,1123,0 704,328,1793,1142,0
+data/train/upspackagedelivery7.jpeg 1543,808,1969,1158,0
+data/train/upspackagedelivery71.jpeg 136,212,235,270,0 139,227,258,328,0 143,273,340,460,0
+data/train/upspackagedelivery79.jpeg 266,344,534,388,0 226,358,574,461,0
+data/train/upspackagedelivery8.jpeg 362,141,534,229,0 340,210,563,382,0
+data/train/upspackagedelivery87.jpeg 310,377,534,513,0 407,301,581,483,0
+data/train/upspackagedelivery176.jpeg 0,112,302,348,0
+data/train/upspackagedelivery183.jpeg 199,83,538,260,0
+data/train/upspackagedelivery186.jpeg 39,409,540,816,0
+data/train/upspackagedelivery191.jpeg 232,20,500,284,0
+data/train/upspackagedelivery192.jpeg 297,143,1126,655,0
+data/train/upspackagedelivery195.jpeg 421,1,713,285,0 346,143,808,369,0 325,244,851,663,0
+data/train/upspackagedelivery20.jpeg 411,383,784,694,0
+data/train/upspackagedelivery225.jpeg 156,146,651,449,0
+data/train/upspackagedelivery227.jpeg 90,246,440,416,0
+data/train/upspackagedelivery229.jpeg 203,265,357,365,0
+data/train/upspackagedelivery230.jpeg 308,213,422,267,0 303,230,409,300,0 287,283,409,384,0
+data/train/upspackagedelivery236.png 562,396,1065,1050,0
+data/train/upspackagedelivery262.jpeg 124,12,519,180,0
+data/train/upspackagedelivery29.jpeg 267,115,488,249,0 185,223,563,424,0 129,418,306,517,0 303,421,621,538,0 110,504,658,625,0
+data/train/upspackagedelivery298.jpeg 244,137,840,525,0
+data/train/upspackagedelivery307.jpeg 195,75,528,285,0
+data/train/upspackagedelivery31.jpeg 156,58,348,283,0
+data/train/upspackagedelivery34.jpeg 1,1,583,400,0
+data/train/upspackagedelivery17.jpeg 372,232,843,489,0 360,365,921,506,0
+data/train/upspackagedelivery252.jpeg 491,240,536,284,0
+data/train/upspackagedelivery35.jpeg 375,283,646,552,0 634,351,912,470,0 642,191,1155,566,0 784,419,1069,575,0
+data/train/uspspackagedelivery10.jpeg 166,68,889,632,0
+data/train/uspspackagedelivery101.jpeg 305,207,753,554,0
+data/train/uspspackagedelivery103.jpeg 2824,1819,3977,2375,0 2206,1823,3219,2488,0 1396,2049,2303,2638,0
+data/train/uspspackagedelivery106.jpeg 636,321,768,413,0 574,392,802,464,0 580,439,804,502,0
+data/train/uspspackagedelivery110.jpeg 418,268,1268,949,0
+data/train/uspspackagedelivery119.png 45,113,630,496,0
+data/train/uspspackagedelivery120.jpeg 1916,751,2240,889,0 1912,856,2272,1035,0 1826,888,2346,1303,0
+data/train/uspspackagedelivery124.jpeg 1,254,1772,1334,0
+data/train/uspspackagedelivery129.jpeg 71,1,382,305,0 602,29,650,168,0
+data/train/uspspackagedelivery130.jpeg 856,361,1279,655,0 884,88,1280,404,0
+data/train/uspspackagedelivery141.jpeg 366,178,1036,528,0
+data/train/uspspackagedelivery142.png 89,40,852,572,0
+data/train/uspspackagedelivery143.jpeg 409,671,787,900,0 604,360,961,828,0 199,538,527,822,0 424,1163,1044,1415,0 140,194,682,748,0 61,731,848,1329,0 800,909,982,1266,0
+data/train/uspspackagedelivery56.jpeg 323,396,596,499,0 338,327,484,458,0
+data/train/uspspackagedelivery57.jpeg 340,251,680,414,0
+data/train/uspspackagedelivery63.jpeg 324,53,690,277,0 16,3,302,262,0
+data/train/uspspackagedelivery64.jpeg 348,64,1073,649,0
+data/train/uspspackagedelivery70.jpeg 208,105,550,389,0
+data/train/uspspackagedelivery77.jpeg 155,277,579,450,0
+data/train/uspspackagedelivery84.png 560,330,774,426,0 526,411,762,450,0
+data/train/uspspackagedelivery85.jpeg 148,15,850,509,0
+data/train/uspspackagedelivery86.jpeg 809,699,1260,1051,0
+data/train/uspspackagedelivery92.jpeg 177,468,979,852,0 104,280,705,507,0 266,95,713,307,0 596,683,1136,852,0 694,371,1018,491,0
+data/train/uspspackagedelivery93.jpeg 40,58,655,624,0
+data/train/uspspackagedelivery94.jpeg 973,1629,1747,2187,0 1627,1834,2238,2186,0
+data/train/uspspackagedelivery95.jpeg 680,650,1109,1110,0
+data/train/uspspackagedelivery16.jpeg 149,372,339,483,0 122,433,342,551,0
+data/train/uspspackagedelivery165.jpeg 785,729,1314,1030,0 567,609,1005,944,0
+data/train/uspspackagedelivery169.jpeg 532,562,826,761,0
+data/train/uspspackagedelivery17.jpeg 327,308,652,562,0
+data/train/uspspackagedelivery175.jpeg 38,410,540,814,0
+data/train/uspspackagedelivery176.jpeg 703,355,1215,587,0 767,621,1056,757,0 701,517,1309,626,0 940,595,1118,754,0
+data/train/uspspackagedelivery179.png 128,156,414,369,0 514,387,699,613,0 80,299,333,507,0 500,308,645,446,0 348,190,542,393,0
+data/train/uspspackagedelivery187.jpeg 200,234,441,365,0
+data/train/uspspackagedelivery192.jpeg 175,40,488,350,0 195,253,468,427,0
+data/train/uspspackagedelivery193.jpeg 207,0,1087,587,0
+data/train/uspspackagedelivery195.jpeg 1496,775,2129,1504,0 1484,1408,1809,1702,0 1811,1484,2079,1700,0
+data/train/uspspackagedelivery197.jpeg 588,1,1200,530,0 356,87,1145,778,0 18,1,517,727,0
+data/train/uspspackagedelivery205.jpeg 649,325,833,655,0 423,434,668,647,0 506,303,748,359,0 484,354,667,457,0
+data/train/uspspackagedelivery233.jpeg 253,371,733,708,0
+data/train/uspspackagedelivery241.jpeg 48,60,335,335,0
+data/train/uspspackagedelivery244.jpeg 216,89,1151,820,0
+data/train/uspspackagedelivery247.jpeg 332,558,957,719,0 350,96,866,365,0 413,349,884,595,0
+data/train/uspspackagedelivery256.jpeg 377,203,1156,672,0
+data/train/uspspackagedelivery260.jpeg 403,20,1000,453,0
+data/train/uspspackagedelivery266.png 345,193,576,350,0
+data/train/uspspackagedelivery27.jpeg 54,72,272,264,0
+data/train/uspspackagedelivery272.jpeg 121,154,487,429,0
+data/train/uspspackagedelivery278.jpeg 357,322,651,585,0 647,374,762,576,0 385,151,640,331,0
+data/train/uspspackagedelivery289.jpeg 186,56,304,150,0 95,71,166,143,0 99,42,160,92,0 66,125,183,217,0 185,127,303,217,0
+data/train/uspspackagedelivery159.jpeg 79,128,751,590,0
+data/train/uspspackagedelivery225.jpeg 565,236,909,489,0 485,479,911,695,0 645,712,1059,878,0 557,14,965,190,0 599,167,819,262,0
+data/train/uspspackagedelivery291.png 135,80,462,270,0
+data/train/uspspackagedelivery53.jpeg 1,693,591,1076,0 636,854,1024,1071,0 538,428,910,874,0
+data/train/uspspackagedelivery294.jpeg 378,-4,920,353,0
+data/train/uspspackagedelivery301.jpeg 7,43,355,297,0
+data/train/uspspackagedelivery302.jpeg 256,191,666,518,0 330,1,557,223,0 271,114,633,289,0
+data/train/uspspackagedelivery326.jpeg 349,360,718,639,0
+data/train/uspspackagedelivery33.jpeg 92,75,355,171,0
+data/train/uspspackagedelivery338.jpeg 50,857,951,1447,0 1,371,924,946,0
+data/train/uspspackagedelivery35.jpeg 69,70,905,600,0
+data/train/uspspackagedelivery358.jpeg 79,41,1421,1031,0
+data/train/uspspackagedelivery363.jpeg 95,64,513,413,0
+data/train/uspspackagedelivery374.png 515,539,1799,1479,0
+data/train/uspspackagedelivery385.jpeg 74,75,144,124,0
+data/train/uspspackagedelivery393.jpeg 1,108,294,229,0 25,176,318,334,0 1,17,66,121,0
+data/train/uspspackagedelivery43.png 291,482,784,796,0 328,219,736,368,0 334,69,658,265,0 360,383,762,606,0 347,293,731,480,0 417,402,750,508,0
+data/train/uspspackagedelivery48.jpeg 270,43,592,396,0 39,45,297,419,0
+data/train/uspspackagedelivery50.jpeg 362,200,702,449,0
+data/train/walmartpackagedelivery0.jpeg 241,2,788,423,0
+data/train/walmartpackagedelivery1.jpeg 690,103,1102,358,0 643,281,1116,555,0
+data/train/walmartpackagedelivery105.jpeg 393,238,456,296,0
+data/train/walmartpackagedelivery107.jpeg 232,27,432,187,0 161,105,533,400,0
+data/train/walmartpackagedelivery117.jpeg 102,11,510,347,0
+data/train/walmartpackagedelivery12.jpeg 295,23,923,411,0 231,290,951,630,0
+data/train/walmartpackagedelivery121.jpeg 128,321,614,494,0
+data/train/walmartpackagedelivery127.jpeg 363,94,704,403,0
+data/train/walmartpackagedelivery129.jpeg 1002,597,1232,833,0 977,722,1213,958,0 857,803,1272,1211,0
+data/train/walmartpackagedelivery13.jpeg 0,487,652,945,0 818,436,1254,804,0 1186,395,1562,698,0 1482,373,1782,612,0
+data/train/walmartpackagedelivery131.jpeg 226,75,928,727,0
+data/train/walmartpackagedelivery14.jpeg 352,151,561,293,0
+data/train/walmartpackagedelivery146.png 138,72,257,232,0
+data/train/walmartpackagedelivery36.jpeg 368,209,567,395,0 565,259,852,473,0 293,321,572,523,0 561,343,821,552,0
+data/train/walmartpackagedelivery362.jpeg 242,23,417,107,0 187,94,460,267,0 199,228,482,327,0 131,264,556,532,0
+data/train/walmartpackagedelivery383.png 138,1,612,404,0 1,259,637,800,0
+data/train/walmartpackagedelivery392.jpeg 258,211,475,448,0
+data/train/walmartpackagedelivery393.jpeg 306,60,431,133,0 294,127,436,201,0 269,189,454,310,0 234,283,493,420,0
+data/train/walmartpackagedelivery44.jpeg 157,313,696,719,0
+data/train/walmartpackagedelivery48.jpeg 227,102,642,359,0 184,279,657,558,0
+data/train/walmartpackagedelivery49.jpeg 398,97,719,208,0 305,187,755,454,0
+data/train/walmartpackagedelivery5.jpeg 178,116,958,594,0
+data/train/walmartpackagedelivery50.jpeg 121,142,1006,831,0
+data/train/walmartpackagedelivery52.jpeg 0,443,246,594,0 964,349,1200,482,0 451,223,840,554,0
+data/train/walmartpackagedelivery59.jpeg 194,235,422,408,0
+data/train/walmartpackagedelivery60.jpeg 413,201,682,368,0
+data/train/walmartpackagedelivery63.jpeg 155,309,1546,1536,0
+data/train/walmartpackagedelivery66.jpeg 450,299,737,469,0
+data/train/walmartpackagedelivery68.jpeg 96,50,323,211,0
+data/train/walmartpackagedelivery69.jpeg 582,49,963,374,0 468,365,1146,794,0 340,761,1204,1034,0
+data/train/walmartpackagedelivery7.jpeg 187,206,433,322,0 20,289,363,442,0 344,266,558,425,0
+data/train/walmartpackagedelivery76.jpeg 197,367,446,533,0
+data/train/walmartpackagedelivery92.jpeg 359,26,572,166,0 307,162,622,328,0 270,302,645,492,0
+data/train/walmartpackagedelivery93.png 197,44,576,314,0
+data/train/walmartpackagedelivery95.jpeg 393,182,653,292,0 386,273,600,457,0
+data/train/walmartpackagedelivery96.jpeg 137,168,360,382,0
+data/train/walmartpackagedelivery98.jpeg 157,145,649,450,0
+data/train/walmartpackagedelivery154.jpeg 260,17,687,292,0
+data/train/walmartpackagedelivery155.jpeg 119,21,313,195,0 165,105,304,222,0
+data/train/walmartpackagedelivery164.jpeg 87,21,298,236,0
+data/train/walmartpackagedelivery167.png 67,75,613,484,0
+data/train/walmartpackagedelivery171.jpeg 141,173,489,291,0
+data/train/walmartpackagedelivery173.jpeg 1,42,687,668,0 817,34,1551,642,0 1047,1,1696,470,0 107,349,1001,1259,0 866,534,1919,1442,0
+data/train/walmartpackagedelivery178.jpeg 680,84,1810,632,0 679,205,1768,1274,0
+data/train/walmartpackagedelivery18.jpeg 79,81,344,323,0 401,50,683,239,0 395,166,699,323,0
+data/train/walmartpackagedelivery189.png 241,221,573,458,0
+data/train/walmartpackagedelivery191.jpeg 352,0,1486,649,0 333,515,1486,968,0
+data/train/walmartpackagedelivery2.jpeg 673,92,1226,555,0
+data/train/walmartpackagedelivery233.png 585,80,1167,488,0
+data/train/walmartpackagedelivery24.jpeg 278,152,735,333,0 254,300,762,500,0
+data/train/walmartpackagedelivery244.jpeg 27,54,329,292,0
+data/train/walmartpackagedelivery245.jpeg 14,4,292,265,0 284,2,536,256,0 45,259,286,479,0 284,244,618,479,0
+data/train/walmartpackagedelivery253.jpeg 258,52,1325,990,0
+data/train/walmartpackagedelivery254.jpeg 84,106,597,609,0
+data/train/walmartpackagedelivery255.jpeg 102,51,266,117,0 103,115,268,201,0 40,181,323,368,0
+data/train/walmartpackagedelivery264.jpeg 624,84,885,275,0 563,177,719,286,0 550,247,922,454,0
+data/train/walmartpackagedelivery268.jpeg 477,386,903,698,0
+data/train/walmartpackagedelivery27.jpeg 0,183,173,348,0 316,266,591,443,0 575,79,1100,619,0
+data/train/walmartpackagedelivery272.jpeg 186,170,719,526,0 35,473,718,859,0
+data/train/walmartpackagedelivery286.jpeg 168,85,320,208,0
+data/train/walmartpackagedelivery293.jpeg 466,681,1326,1280,0
+data/train/walmartpackagedelivery30.jpeg 131,31,577,370,0
+data/train/walmartpackagedelivery308.jpeg 583,187,844,588,0
+data/train/walmartpackagedelivery31.jpeg 373,1,924,372,0
+data/train/walmartpackagedelivery313.jpeg 59,283,529,565,0 834,585,1123,748,0 711,540,1123,662,0 601,350,995,599,0
+data/train/walmartpackagedelivery315.jpeg 227,45,578,234,0 192,179,602,441,0
+data/train/walmartpackagedelivery316.jpeg 88,1,592,445,0
+data/train/walmartpackagedelivery317.png 164,71,336,191,0
+data/train/walmartpackagedelivery319.jpeg 414,265,497,325,0
+data/train/walmartpackagedelivery148.png 197,179,1060,625,0 603,76,1461,521,0
+data/train/walmartpackagedelivery192.jpeg 424,430,856,744,0
+data/train/walmartpackagedelivery33.jpeg 825,176,1149,1095,0 1127,603,1634,971,0 758,772,1919,1742,0
+data/train/IMG_20220615_102341.jpg 916,1276,2124,2240,0
+data/train/IMG_20220615_102504.jpg 579,1382,1573,2184,0
+data/train/IMG_20220617_185409.jpg 967,747,2064,1318,0 1035,1127,2063,1769,0 2166,972,2726,1507,0 1744,149,2729,787,0 1695,712,2729,1335,0
+data/train/IMG_20220617_185535.jpg 784,439,2176,1742,0
+data/train/IMG_20220617_185548.jpg 758,621,1941,1372,0 823,1065,2087,1849,0
+data/train/IMG_20220617_185633.jpg 1039,1036,1755,1773,0
+data/train/IMG_20220617_185641.jpg 940,1176,1686,1816,0
+data/train/IMG_20220617_185648.jpg 879,1108,1656,1788,0
+data/train/IMG_20220617_185651.jpg 972,1312,1578,1847,0
+data/train/IMG_20220617_185703.jpg 329,173,1958,1793,0
+data/train/IMG_20220617_185731.jpg 221,1118,1287,2110,0 1413,564,2176,1644,0
+data/train/IMG_20220617_185736.jpg 493,832,1473,1627,0 1724,888,2315,2109,0
+data/train/IMG_20220617_185812.jpg 850,722,2019,1776,0 666,1288,1578,2145,0
+data/train/IMG_20220617_185830.jpg 941,1145,1858,2085,0
+data/train/IMG_20220617_185847.jpg 1292,265,1675,832,0
+data/train/IMG_20220617_185930.jpg 1189,159,1570,682,0 916,1821,1855,2628,0
+data/train/IMG_20220617_185939.jpg 486,1996,998,2479,0 2233,1230,2607,1725,0
+data/train/IMG_20220617_185954.jpg 1192,1727,1735,2147,0 1255,2140,1669,2709,0
+data/train/IMG_20220617_190022.jpg 796,1048,2124,1682,0
+data/train/IMG_20220617_190035.jpg 135,582,892,1742,0 1887,1904,2729,2568,0
+data/train/IMG_20220617_190046.jpg 216,138,2144,2427,0
+data/train/IMG_20220617_190100.jpg 995,826,1749,1541,0
+data/train/IMG_20221104_224626.jpg 165,1316,835,1900,0 1285,943,2400,1947,0 2781,1013,3946,2103,0
+data/train/IMG_20221104_224637.jpg 1240,816,2350,1744,0 2744,793,3900,1855,0 112,1193,769,1731,0
+data/train/IMG_20221104_224714.jpg 1721,997,2540,1983,0
+data/train/IMG_20221104_224723.jpg 901,941,1813,2042,0
+data/train/IMG_20221104_224748.jpg 1257,1263,2675,2510,0
+data/train/IMG_20221104_224804.jpg 824,1433,2486,3083,0
+data/train/IMG_20221104_224809.jpg 768,729,2301,2505,0
+data/train/IMG_20221104_224824.jpg 1116,1493,2325,2222,0
+data/train/IMG_20221104_224828.jpg 876,1562,2026,2195,0
+data/train/IMG_20221104_224833.jpg 1403,1116,2171,1847,0
+data/train/IMG_20221104_224854.jpg 1294,1177,1669,1815,0 1713,684,2713,1825,0 1212,1338,2503,2360,0
+data/train/IMG_20221104_224857.jpg 893,1638,1223,2216,0 1197,1266,1988,2254,0 848,1946,1838,2621,0
+data/train/IMG_20221104_224912.jpg 1156,887,2105,1749,0 1010,1183,2318,2570,0 738,1901,2263,3170,0
+data/train/IMG_20221104_224917.jpg 1569,584,2372,1018,0 1432,837,2478,1838,0 1252,1399,2493,2427,0
+data/train/IMG_20221104_224932.jpg 1596,697,2510,1177,0 1438,1027,2635,2128,0 1256,1613,2646,2741,0
+data/train/IMG_20221104_224935.jpg 1267,1250,2092,1779,0 1142,1521,2198,2517,0 1030,2013,2243,3038,0
+data/train/IMG_20221104_224938.jpg 1335,1295,2005,1837,0 1277,1509,2076,2446,0 1198,1967,2123,2963,0
+data/train/IMG_20221104_224942.jpg 1134,600,2243,1230,0 948,976,2393,2326,0 739,1738,2330,3055,0
+data/train/IMG_20221104_225006.jpg 1350,197,2710,1655,0 1384,1028,2746,2460,0
+data/train/IMG_20221104_225015.jpg 915,955,1865,1943,0 2200,981,3338,2255,0
+data/train/IMG_20221104_225018.jpg 993,1250,1909,2185,0 2225,1338,3356,2568,0
+data/train/IMG_20221104_225026.jpg 1187,696,1956,1190,0 1043,972,1968,1803,0 2185,1072,3338,2331,0
+data/train/IMG_20221104_225029.jpg 1497,668,2200,1037,0 1334,797,2241,1685,0 1706,1265,3232,2735,0
+data/train/IMG_20221104_230952.jpg 1407,1019,2400,1877,0
+data/train/IMG_20221104_231017.jpg 1178,875,2750,2278,0
+data/train/IMG_20221104_231032.jpg 1525,1069,2449,1815,0
+data/train/IMG_20221104_231043.jpg 1099,862,3171,2771,0
+data/train/IMG_20220617_185841.jpg 1300,1076,1620,1530,0
+data/train/IMG_20221104_224755.jpg 681,1783,2188,3212,0
+data/train/IMG_20221104_224908.jpg 1088,996,2201,1684,0 1014,1450,2118,2545,0 818,1779,2139,2962,0
+data/train/IMG_20221104_231057.jpg 635,753,1794,1684,0 2475,684,3085,1278,0
+data/train/IMG_20221104_231112.jpg 1365,649,2332,1430,0 1278,906,2668,2131,0
+data/train/IMG_20221104_231118.jpg 1785,1113,2285,1485,0 1721,1280,2540,1899,0
+data/train/IMG_20221104_231129.jpg 1303,1206,1834,1615,0 2159,1005,3060,1643,0
+data/train/IMG_20221104_231136.jpg 1419,922,1791,1300,0 1875,980,2810,1740,0
+data/train/IMG_20221104_231141.jpg 888,641,1419,1278,0 1406,825,3057,2330,0
+data/train/IMG_20221104_231152.jpg 496,628,1902,1853,0 2321,1472,3366,2413,0
+data/train/IMG_20221104_231200.jpg 1532,810,2546,1585,0 949,1069,2452,2652,0
+data/train/IMG_20221104_231205.jpg 1403,627,2509,1602,0 1149,916,2506,2506,0
+data/train/IMG_20221104_231211.jpg 1988,835,2669,1481,0 1516,1228,2797,2505,0
+data/train/IMG_20221104_231301.jpg 1457,499,2510,1296,0 919,878,2403,2272,0
+data/train/IMG_20221104_231311.jpg 1518,640,2223,1330,0 1075,1080,2382,2190,0
+data/train/IMG_20221104_231321.jpg 710,1103,1975,2200,0 2257,1310,2913,1816,0
+data/train/IMG_20221104_231337.jpg 832,1012,2031,1980,0 2077,1343,2809,2022,0
+data/train/IMG_20221104_231343.jpg 253,862,2021,2327,0 2072,1400,3122,2391,0
+data/train/IMG_20221104_231350.jpg 2022,1138,2769,1849,0 1152,645,2234,1575,0
+data/train/IMG_20221104_231402.jpg 1669,644,2309,1463,0 1322,1052,2503,2049,0
+data/train/IMG_20221104_231414.jpg 1357,893,2200,1537,0 1191,1335,2594,2441,0
+data/train/IMG_20221104_231418.jpg 1402,663,2371,1465,0 1250,1181,2678,2522,0
+data/train/IMG_20221104_231443.jpg 377,1181,1277,1927,0 2049,928,3522,2159,0
+data/train/IMG_20221104_231456.jpg 578,1245,1396,2022,0 2053,907,3337,2132,0
+data/train/IMG_20221104_231505.jpg 1302,1591,1836,2478,0 1841,349,2966,1362,0
+data/train/IMG_20221104_231515.jpg 699,810,1818,1802,0 2393,993,3051,1633,0
+data/train/IMG_20221104_231522.jpg 1076,612,2975,2344,0
+data/train/IMG_20221104_231531.jpg 1297,859,2532,2075,0
