@@ -1,0 +1,4 @@
+data/packages/valid/00000.jpg 185,223,237,259,0 179,233,286,310,0
+data/packages/valid/00001.jpg 150,120,310,275,0
+data/packages/valid/00002.jpg 126,168,299,301,0 288,172,354,301,0
+data/packages/valid/00003.jpg 115,235,179,271,0

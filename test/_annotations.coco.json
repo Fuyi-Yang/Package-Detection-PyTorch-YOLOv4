@@ -1,0 +1,127 @@
+{
+    "info": {
+        "year": "2020",
+        "version": "5",
+        "description": "Exported from roboflow.ai",
+        "contributor": "Roboflow Community",
+        "url": "https://public.roboflow.ai/object-detection/packages-dataset",
+        "date_created": "2020-11-17T16:33:39+00:00"
+    },
+    "licenses": [
+        {
+            "id": 1,
+            "url": "https://creativecommons.org/publicdomain/zero/1.0/",
+            "name": "Public Domain"
+        }
+    ],
+    "categories": [
+        {
+            "id": 0,
+            "name": "packages",
+            "supercategory": "none"
+        },
+        {
+            "id": 1,
+            "name": "package",
+            "supercategory": "packages"
+        }
+    ],
+    "images": [
+        {
+            "id": 0,
+            "license": 1,
+            "file_name": "IMG_6820_jpg.rf.f18338f170168084a6c1cd05c4274f21.jpg",
+            "height": 416,
+            "width": 416,
+            "date_captured": "2020-11-17T16:33:39+00:00"
+        },
+        {
+            "id": 1,
+            "license": 1,
+            "file_name": "PXL_20201107_191145720_jpg.rf.a952948ab5ac9a5eac77099ae01cb669.jpg",
+            "height": 416,
+            "width": 416,
+            "date_captured": "2020-11-17T16:33:39+00:00"
+        },
+        {
+            "id": 2,
+            "license": 1,
+            "file_name": "PXL_20201103_181916758_jpg.rf.b52dd0fe46713fb8ad00cb1aff1140fb.jpg",
+            "height": 416,
+            "width": 416,
+            "date_captured": "2020-11-17T16:33:39+00:00"
+        }
+    ],
+    "annotations": [
+        {
+            "id": 0,
+            "image_id": 0,
+            "category_id": 1,
+            "bbox": [
+                94,
+                258,
+                116,
+                101
+            ],
+            "area": 11716,
+            "segmentation": [],
+            "iscrowd": 0
+        },
+        {
+            "id": 1,
+            "image_id": 0,
+            "category_id": 1,
+            "bbox": [
+                167,
+                242,
+                29.5,
+                29
+            ],
+            "area": 855.5,
+            "segmentation": [],
+            "iscrowd": 0
+        },
+        {
+            "id": 2,
+            "image_id": 1,
+            "category_id": 1,
+            "bbox": [
+                204,
+                197,
+                91.5,
+                86
+            ],
+            "area": 7869,
+            "segmentation": [],
+            "iscrowd": 0
+        },
+        {
+            "id": 3,
+            "image_id": 2,
+            "category_id": 1,
+            "bbox": [
+                174,
+                127,
+                103,
+                78.5
+            ],
+            "area": 8085.5,
+            "segmentation": [],
+            "iscrowd": 0
+        },
+        {
+            "id": 4,
+            "image_id": 2,
+            "category_id": 1,
+            "bbox": [
+                150,
+                171,
+                120.5,
+                127
+            ],
+            "area": 15303.5,
+            "segmentation": [],
+            "iscrowd": 0
+        }
+    ]
+}
