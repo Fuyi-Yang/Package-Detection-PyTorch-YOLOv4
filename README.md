@@ -16,7 +16,7 @@ In practice, however, I found certain issues:
 
 To solve the first problem, I used the [web crawler program from 
 Google Image Scrapper](https://github.com/ohyicong/Google-Image-Scraper) to collect more package pictures
-and interactively labeled these data using [labelImg](https://github.com/qaprosoft/labelImg), increasing the dataset to more than 400 pictures.
+and interactively labeled these data using [labelImg](https://github.com/qaprosoft/labelImg), increasing the dataset to more than 500 pictures.
 For the second issue, I wrote a function ```tools/format_converter.py``` to convert COCO/YOLO formats
 to the required input format for YOLOv4 model.
 
