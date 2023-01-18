@@ -43,7 +43,7 @@ All the data, code, and model are welcome for use.
 ├── model          
 ├── tool
 │   ├── web_crawler            program that crawls image from google
-│   ├── alert.py               sends a message to email box or SMS
+│   ├── alert.py               sends a message to email box, SMS, whatsapp, messenger, and more
 │   ├── format_converter.py    yolo/coco format to input, output to yolo format
 │   ├── config.py
 │   ├── darknet2onnx.py        tool to convert into onnx --> tool/darknet2pytorch
