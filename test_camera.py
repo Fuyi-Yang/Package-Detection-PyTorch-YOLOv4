@@ -2,6 +2,7 @@ import sys
 import cv2
 from models import Yolov4
 from tool.utils import *
+import tool.alert
 
 if __name__ == "__main__":
 
@@ -36,5 +37,6 @@ if __name__ == "__main__":
                 break
             frames += 1
             print("FPS of the video is {:5.2f}".format(frames / (time.time() - start)))
+            #tool.alert.whatsapp_alert()
         else:
             break
